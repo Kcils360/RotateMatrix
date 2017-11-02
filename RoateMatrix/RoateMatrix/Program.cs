@@ -28,7 +28,17 @@ namespace RoateMatrix
                 }
                 return ret;
             }
-
+            int c = 0;
+            foreach (int d in rotated)
+            {
+                Console.Write($"{d} ");
+                c++;
+                if (c % 4 == 0)
+                {
+                    Console.WriteLine();
+                }
+            }
+            Console.Read();
         }
     }
 }
