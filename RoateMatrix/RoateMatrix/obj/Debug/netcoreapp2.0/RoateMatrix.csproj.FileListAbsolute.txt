@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\bin\Debug\netcoreapp2.0\RoateMatrix.deps.json
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\bin\Debug\netcoreapp2.0\RoateMatrix.runtimeconfig.json
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\bin\Debug\netcoreapp2.0\RoateMatrix.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\bin\Debug\netcoreapp2.0\RoateMatrix.dll
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\bin\Debug\netcoreapp2.0\RoateMatrix.pdb
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\obj\Debug\netcoreapp2.0\RoateMatrix.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\obj\Debug\netcoreapp2.0\RoateMatrix.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\obj\Debug\netcoreapp2.0\RoateMatrix.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\obj\Debug\netcoreapp2.0\RoateMatrix.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\obj\Debug\netcoreapp2.0\RoateMatrix.dll
+C:\Users\admin\codefellows\401\RotateMatrix\RoateMatrix\RoateMatrix\obj\Debug\netcoreapp2.0\RoateMatrix.pdb
